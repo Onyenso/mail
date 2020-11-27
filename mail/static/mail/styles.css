@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-bar
+{
+    border: 2px solid black;
+    padding: 4px;
+}
